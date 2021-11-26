@@ -1,3 +1,5 @@
+#Simple small Project for using TypeORM with nodeJs for a job Interview
+
 # Awesome Project Build with TypeORM
 
 Steps to run this project:
